@@ -49,8 +49,6 @@ This problem is NP-hard and becomes computationally challenging as problem size 
 
 ---
 
----
-
 ## Input Format
 
 Input files follow this structure:
@@ -66,7 +64,6 @@ Example:
 -3 -2 -4 -1 -5
 -2 -3 -1 -4 -2
 2 1 3 2 1
-
 
 ---
 
@@ -85,7 +82,7 @@ Example:
 SolveKnapsack("input.txt", method=2)
 ```
 
-### Method options:
+### Method options
 
 1 – Brute Force (BF)
 2 – Rectangle Division Method (RDM)
@@ -93,7 +90,7 @@ SolveKnapsack("input.txt", method=2)
 4 – COMP_2D
 5 – COMP_3D
 
-### Output:
+### Output
 
 Each run generates:
 - A file containing lexicographically sorted non-dominated points
@@ -109,3 +106,7 @@ Each run generates:
 - SciPy
 - Pandas
 - Integer Linear Programming (ILP)
+
+---
+
+
