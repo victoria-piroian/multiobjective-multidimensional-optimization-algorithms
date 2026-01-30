@@ -90,9 +90,13 @@ SolveKnapsack("input.txt", method=2)
 ### Method options
 
 1 – Brute Force (BF)
+
 2 – Rectangle Division Method (RDM)
+
 3 – Supernal Point Method (SPM)
+
 4 – COMP_2D
+
 5 – COMP_3D
 
 ### Output
