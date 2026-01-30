@@ -59,6 +59,7 @@ Input files follow this structure:
 4. Constraint coefficient vectors
 
 Example:
+
 5
 
 10
