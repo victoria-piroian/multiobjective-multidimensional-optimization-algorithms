@@ -109,4 +109,12 @@ Each run generates:
 
 ---
 
+## Author
+Victoria Piroian
+
+University of Toronto
+
+Faculty of Applied Science & Engineering, 2023
+
+
 
